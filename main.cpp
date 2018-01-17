@@ -1,9 +1,12 @@
-#include <QCoreApplication>
+#include <iostream>
+#include<sting>
 
-int main(int argc, char *argv[])
+using namespace std;
+
+
+
+int main()
 {
-    QCoreApplication a(argc, argv);
-
-    return a.exec();
+    
 }
 
